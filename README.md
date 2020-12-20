@@ -12,3 +12,9 @@ cd ..
 git clone https://github.com/yngvark/robothelper-lib
 ./gradlew publish
 ```
+
+## Run
+
+```bash
+make run
+```
